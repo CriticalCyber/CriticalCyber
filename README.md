@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @CriticalCyber
+- 🚀 Full Stack Developer | Java Enthusiast | Cybersecurity Enthusiast |
 - 👀 I’m interested in Cyber Security, Ethical hacking and pentesting
-- 🌱 I’m currently learning blue teamming 
-- 💞️ I’m looking to collaborate on cyber security tools, tech and industry level person
-- 📫 you can reach me with my instagram @criticalcyber
-- this is all about my journey in the feild of cyber security.
+-  Building clean, modern web apps with Node.js, Express, and MongoDB.
+-  Passionate about learning, open source, and turning ideas into reality.
+-  Let’s connect and create something awesome!
+-  you can reach me with my instagram @criticalcyber.
 
 <!---
 CriticalCyber/CriticalCyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
